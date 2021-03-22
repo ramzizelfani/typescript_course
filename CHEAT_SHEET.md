@@ -1,7 +1,7 @@
 - running tsc in watch mode for a specific file
   - `tsc fileName.ts -w`
     or
-    `* tsc fileName.ts --watch `
+  - `* tsc fileName.ts --watch `
 - running tsc in watch mode for a whole project
   - `tsc --init ` //outputs a tsconfig.json file; needs to be run once
   - `tsc -w`
